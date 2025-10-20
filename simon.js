@@ -48,7 +48,7 @@ function checkAns(idx){
 if(userSeq[idx]=== gameSeq[idx]){
     console.log("same value");
     if(userSeq.length===gameSeq.length){
-        levelup();
+        levelup(); 
     }
  }else {
  
