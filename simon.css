@@ -1,0 +1,42 @@
+/* #SIMON CSS */
+body{
+    text-align: center;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+  
+}
+.btn{
+display: flex;
+align-items: center;
+justify-content: center;
+    height: 200px; 
+    width:200px;
+    border: 8px solid black;
+    border-radius: 2rem;
+ margin: 5rem;
+
+}
+
+
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+
+.flash{
+    background-color: white;
+}
+.colorflash{
+    background-color: white;
+}
